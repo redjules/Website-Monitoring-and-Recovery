@@ -75,5 +75,12 @@ and resulting email notification:
 
   The final code is attached to this repo
 
+  I have used the library Paramiko, that allows making SSH connections (client or server) and the library linode_api4.
+  Linode_api4 can give us LinodeClient that will make it possible for python to connect to linode and needs a linode token.
+
+  We create an API token in Linode for that:
+
+  ![Screenshot 2024-10-08 at 18 17 31](https://github.com/user-attachments/assets/91130757-2a29-4e63-ba41-7884c0923f80)
+
 
 
