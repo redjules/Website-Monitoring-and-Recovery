@@ -15,9 +15,12 @@ And add SSH key with this command:
 
 <img width="438" alt="image" src="https://github.com/user-attachments/assets/9f2da3ec-222d-427d-a98f-b35570a9b887">
 
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/0c3d2efb-4b7e-43ac-95e7-0e934c018f6d">
 
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/efa62e96-a98c-45c2-a6eb-58c1c8035345">
+
 
 We take the ssh root:
 
@@ -28,10 +31,13 @@ We take the ssh root:
   I have used the following commands to install Docker Engine on Debian:
   
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/ed8df8b3-4e05-454c-a90a-542c7922af3f">
+  
 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/c6b076b8-4bd0-4781-adbb-14c0032b9d79">
+  
 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/9e47107a-2875-49ae-9f26-f1497c7a2f25">
+  
 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/01ca4f4d-09e4-4e79-ac85-20d880747069">
 
